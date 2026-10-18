@@ -11,3 +11,8 @@
 *~
 *.bcf
 *.xml
+
+# Datos de práctica 5
+household_power_consumption.txt
+preprocessed_consumption.csv
+normalized_consumption.csv
