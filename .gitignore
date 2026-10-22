@@ -16,3 +16,10 @@
 household_power_consumption.txt
 preprocessed_consumption.csv
 normalized_consumption.csv
+prepared_consumption.csv
+
+# Entorno y caché de Python
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
